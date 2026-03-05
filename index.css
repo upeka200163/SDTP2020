@@ -1,0 +1,13 @@
+* {
+    box-sizing: 'border-box';
+}
+
+main {
+    width: 300px;
+    margin: 0 auto;
+}
+
+select {
+    width: 100%;
+    margin-bottom: 1em;
+}
