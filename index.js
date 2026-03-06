@@ -1,6 +1,6 @@
 const selectBox = document.getElementById('select-box')
 const imageContainer = document.querySelector('.image-container')
-const characters = ['Garfield', 'Odie', 'Nermal', 'Pooky', 'Jon', 'Scooby', 'Shaggy', 'Velma']
+const characters = ['Garield', 'Odie', 'Nermal', 'Pooky', 'Jon', 'Scooby', 'Shaggy', 'Velma']
 
 for (let character of characters) {
     const optionEl = document.createElement("option")
